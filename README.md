@@ -8,7 +8,6 @@ AI & full-stack engineer in Dhaka (GMT+6). I ship production software by directi
 ### Selected work
 - [Lintel](https://github.com/shakibbinkabir/lintel): Windows notch app for supervising AI coding agents (Rust, Tauri). v1.0
 - [SharkScope](https://github.com/bionauts/sharkscope): NASA Space Apps 2025, shark foraging hotspots from satellite data, built on my TCHI habitat index
-- [ExamBinary](https://github.com/shakibbinkabir/ExamBinary): FastAPI education backend with layout-aware RAG and an LLM gateway
 - [taktus](https://github.com/shakibbinkabir/taktus): beat tracking in one Rust file, on crates.io and npm
 - [ccledger](https://github.com/shakibbinkabir/ccledger): usage ledger for Claude Code teams
 - [Nudge](https://github.com/shakibbinkabir/nudge): focus-first new-tab extension
